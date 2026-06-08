@@ -133,7 +133,7 @@ GPT-4o-mini kullanır. ~10.000 soru için maliyet yaklaşık $2–5.
 
 | Özellik | NotebookLM | Bu Sistem |
 |---------|-----------|-----------|
-| Kaynak limiti | ~50 PDF | Sınırsız |
+| Kaynak limiti | ~200 MB | Sınırsız |
 | Ders filtresi | Manuel | Otomatik |
 | Türkçe soru → İngilizce kaynak | Zayıf | ✓ Embedding köprüsü |
 | Çevrimdışı | Hayır | ✓ Evet |
