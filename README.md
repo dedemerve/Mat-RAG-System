@@ -1,6 +1,6 @@
-# 📚 Beykent Matematik RAG
+# Matematik RAG
 
-**Beykent Üniversitesi Matematik Bölümü müfredatı için RAG (Retrieval-Augmented Generation) sistemi.**
+** İstanbul Beykent Üniversitesi Matematik Bölümü müfredatı için RAG (Retrieval-Augmented Generation) sistemi.**
 
 Ders kitaplarınızı sisteme yükleyin, tüm müfredatı doğal dil soruları ile sorgulayın.
 
