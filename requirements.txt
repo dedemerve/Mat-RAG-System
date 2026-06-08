@@ -1,0 +1,25 @@
+# Beykent Matematik RAG — Bağımlılıklar
+#
+# Kurulum:
+#   pip install -r requirements.txt
+#
+# Not: sentence-transformers ilk indirmede ~90 MB model indirir.
+#      Sonraki çalıştırmalarda önbellekten kullanır.
+
+# PDF okuma
+pymupdf>=1.23.0
+
+# Vektör veritabanı
+chromadb>=0.4.0
+
+# Ücretsiz embedding modeli (API gerektirmez)
+sentence-transformers>=2.7.0
+
+# Yapılandırma dosyası
+pyyaml>=6.0
+
+# LLM cevap üretimi (isteğe bağlı — --llm modu için)
+openai>=1.0.0
+
+# .env dosyası desteği (isteğe bağlı)
+python-dotenv>=1.0.0

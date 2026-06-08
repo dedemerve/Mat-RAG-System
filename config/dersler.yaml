@@ -1,0 +1,98 @@
+# dersler.yaml
+# =============
+# Beykent Üniversitesi Matematik Bölümü müfredatı.
+# Her girdi bir PDF klasörüne karşılık gelir.
+#
+# Kullanım:
+#   - klasor: PDF dosyalarının bulunduğu klasör (data/kitaplar/ altında)
+#   - ders  : Koleksiyonda görünecek ders adı
+#   - donem : Hangi yarıyılda veriliyor
+
+dersler:
+  # ── 1–2. Yarıyıl ────────────────────────────────────────────
+  - klasor: Analiz_1
+    ders: "Matematiksel Analiz I"
+    donem: "1. Yarıyıl"
+
+  - klasor: Analiz_2
+    ders: "Matematiksel Analiz II"
+    donem: "2. Yarıyıl"
+
+  - klasor: Soyut_Matematik
+    ders: "Soyut Matematik"
+    donem: "1. Yarıyıl"
+
+  - klasor: Analitik_Geometri
+    ders: "Analitik Geometri"
+    donem: "1. Yarıyıl"
+
+  # ── 3–4. Yarıyıl ────────────────────────────────────────────
+  - klasor: Analiz_3
+    ders: "Matematiksel Analiz III"
+    donem: "3. Yarıyıl"
+
+  - klasor: Analiz_4
+    ders: "Matematiksel Analiz IV"
+    donem: "4. Yarıyıl"
+
+  - klasor: Lineer_Cebir
+    ders: "Lineer Cebir I"
+    donem: "3. Yarıyıl"
+
+  - klasor: Diferansiyel_Denklemler_1
+    ders: "Diferansiyel Denklemler I"
+    donem: "3. Yarıyıl"
+
+  - klasor: Diferansiyel_Denklemler_2
+    ders: "Diferansiyel Denklemler II"
+    donem: "4. Yarıyıl"
+
+  - klasor: Sayisal_Analiz
+    ders: "Sayısal Analiz I"
+    donem: "4. Yarıyıl"
+
+  - klasor: Olasilik_Teorisi
+    ders: "Olasılık Teorisi"
+    donem: "4. Yarıyıl"
+
+  # ── 5–6. Yarıyıl ────────────────────────────────────────────
+  - klasor: Kompleks_Analiz
+    ders: "Kompleks Analiz"
+    donem: "5. Yarıyıl"
+
+  - klasor: Topoloji_1
+    ders: "Topoloji I"
+    donem: "5. Yarıyıl"
+
+  - klasor: Topoloji_2
+    ders: "Topoloji II"
+    donem: "6. Yarıyıl"
+
+  - klasor: Diferansiyel_Geometri_1
+    ders: "Diferansiyel Geometri I"
+    donem: "5. Yarıyıl"
+
+  - klasor: Diferansiyel_Geometri_2
+    ders: "Diferansiyel Geometri II"
+    donem: "6. Yarıyıl"
+
+  - klasor: KTDD_1
+    ders: "Kısmi Türevli Diferansiyel Denklemler I"
+    donem: "5. Yarıyıl"
+
+  - klasor: KTDD_2
+    ders: "Kısmi Türevli Diferansiyel Denklemler II"
+    donem: "6. Yarıyıl"
+
+  # ── 7–8. Yarıyıl ────────────────────────────────────────────
+  - klasor: Reel_Analiz
+    ders: "Reel Analiz"
+    donem: "7. Yarıyıl"
+
+  - klasor: Fonksiyonel_Analiz
+    ders: "Fonksiyonel Analiz"
+    donem: "8. Yarıyıl"
+
+  - klasor: Sayilar_Teorisi
+    ders: "Sayılar Teorisi"
+    donem: "5. Yarıyıl"

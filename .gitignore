@@ -1,0 +1,24 @@
+# API anahtarları — ASLA commit etme
+.env
+
+# PDF'ler — telif hakkı nedeniyle paylaşılmaz
+data/kitaplar/
+data/chunks.jsonl
+
+# ChromaDB indeksi — büyük, yeniden oluşturulabilir
+data/chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
